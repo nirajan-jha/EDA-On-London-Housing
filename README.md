@@ -8,14 +8,22 @@ The dataset contains information about London Housing. It contains 13549 records
 
 # Key Features:
 Data Cleaning and Preparation
+
 Creation of Year and Month Columns
+
 Descriptive Statistics
+
 Data Visualization 
+
 Insights and Interpretations
+
 Cleaned Dataset for Future Use
 
 # Libraries Used:
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
